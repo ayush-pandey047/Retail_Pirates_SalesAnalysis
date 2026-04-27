@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Tableau temporary/recovery files
+.~*.twbr
+*.twbr
+
+# Claude Code
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Editor
+.vscode/
+.idea/
